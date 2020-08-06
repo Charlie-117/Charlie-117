@@ -4,7 +4,8 @@
   <samp>
     :wave: Hey! Welcome to my profile
     <br>I am Charlie
-      <br>I am trying to learn new things everyday , and attempting to create cool stuff with it.
+      <br>I am trying to learn new things everyday , and attempting to create cool stuff with it,
+        <br>Currently I maintain SHRP and Project Sakura for my device merlin.
 
  <p align="center">
   Reach out to me - <a href="(https://t.me/charlie255226)"><img src="https://img.shields.io/badge/Telegram-%40Charlie-blue" /></a>
